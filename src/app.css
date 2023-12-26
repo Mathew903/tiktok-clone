@@ -1,0 +1,15 @@
+.app {
+    background-color: #000;
+    height: 100vh;
+    color: #fafafa;
+    display: grid;
+    place-content: center;
+}
+
+main {
+    border: 1px solid #ccc;
+    aspect-ratio: 9 / 16;
+    border-radius: 3px;
+    max-width: 375px;
+    width: 100vw;
+}

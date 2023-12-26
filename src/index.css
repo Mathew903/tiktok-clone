@@ -1,0 +1,55 @@
+@font-face {
+  font-display: fallback;
+  font-family: TikTokFont;
+  font-style: normal;
+  font-weight: 400;
+  src: url("assets/TikTokFont-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: fallback;
+  font-family: TikTokFont;
+  font-style: normal;
+  font-weight: 500;
+  src: url("assets/TikTokDisplayFont-Semibold.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: fallback;
+  font-family: TikTokFont;
+  font-style: normal;
+  font-weight: 700;
+  src: url("assets/TikTokDisplayFont-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: fallback;
+  font-family: TikTokDisplayFont;
+  font-style: normal;
+  font-weight: 400;
+  src: url("assets/TikTokDisplayFont-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: fallback;
+  font-family: TikTokDisplayFont;
+  font-style: normal;
+  font-weight: 500;
+  src: url("assets/TikTokDisplayFont-Semibold.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: fallback;
+  font-family: TikTokDisplayFont;
+  font-style: normal;
+  font-weight: 700;
+  src: url("assets/TikTokDisplayFont-Bold.woff2") format("woff2");
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: TikTokFont,system-ui,-apple-system,Roboto,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji
+}
